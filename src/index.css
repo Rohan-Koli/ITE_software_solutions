@@ -1,0 +1,12 @@
+@import "../public/assets/css/bootstrap.css";
+@import "../public/assets/css/bootstrap.min.css";
+  
+
+@import "tailwindcss";
+
+@theme {
+  /* --color-primary: oklch(70.5% 0.213 47.604); */
+  --color-subtle :var(--bs-warning-bg-subtle);
+  --color-primary:#fff3cd;
+  --color-danger-bg-subtle :var(--bs-danger-bg-subtle)
+}
